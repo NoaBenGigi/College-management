@@ -1,7 +1,3 @@
-/*Noa Ben-gigi-318355633
-Lion Dahan-318873338
-Eilon Ifrah-207229931
-Shira Avital Mahgerefte- 206490799*/
 #define _CRT_SECURE_NO_WARNINGS
 using namespace std;
 #include <string.h>
